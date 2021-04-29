@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-nodejs",
+  "version": "1.0.0",
+  "description": "Mongodb first nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hira Saha",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.6.6"
+  }
+}
